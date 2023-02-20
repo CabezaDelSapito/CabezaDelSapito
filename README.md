@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-test
 
 <div>
   <a href="https://github.com/CabezaDelSapito">
