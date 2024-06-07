@@ -1,10 +1,10 @@
 # Olá 👋 sou o José Olimpio
 
 ## Quem sou eu?
-Sou um estudante de Ciência da Computação na Universidade Federal do Amapá, com ênfase em Desenvolvimento de Software e Inteligência Artificial. Destaco-me em programação, algoritmos e estruturas de dados, com experiência em diversas linguagens de programação como Python, PHP, Java, C e etc. Voluntário no projeto Pythonisa e monitor bolsista no curso de Capacitação Profissional Para Aperfeiçoamento/Desenvolvimento De Recursos Humanos Em Inteligência Artificial Com Foco No Desenvolvimento Da Amazônia.
+Sou um estudante de Ciência da Computação na Universidade Federal do Amapá, com ênfase em Desenvolvimento de Software e Inteligência Artificial. Destaco-me em programação, algoritmos e estruturas de dados, com experiência em diversas linguagens de programação como Python, PHP, Java, C e etc. Voluntário no projeto Pythonisa.
 
 ## Tenho conhecimentos em:
-[![My Skills](https://skillicons.dev/icons?i=python,php,java,javascript,html,css,c,cpp,mysql,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,javascript,html,css,c,cpp,mysql,postgresql,&perline=7)](https://skillicons.dev)
 
 ## Ferramentas que utilizo:
 [![My Skills](https://skillicons.dev/icons?i=vscode,github&perline=7)](https://skillicons.dev)
