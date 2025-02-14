@@ -1,7 +1,7 @@
 # Olá 👋 sou o José Olimpio
 
 ## Quem sou eu?
-Sou um estudante de Ciência da Computação na Universidade Federal do Amapá, com ênfase em Desenvolvimento de Software e Inteligência Artificial. Destaco-me em programação, algoritmos e estruturas de dados, com experiência em diversas linguagens de programação como Python, PHP, Java, C e etc. Atualmente atuo como Residente Tecnológico no Tribunal de Justiça do Amapá(TJAP).
+Sou um estudante de Ciência da Computação na Universidade Federal do Amapá, com ênfase em Desenvolvimento de Software, Inteligência Artificial e Desenvolvimento de jogos. Destaco-me em programação, algoritmos e estruturas de dados, com experiência em diversas linguagens de programação como Python, PHP, Java, C e etc. Atualmente atuo como Residente Tecnológico no Tribunal de Justiça do Amapá(TJAP).
 
 ## Tenho conhecimentos em:
 [![My Skills](https://skillicons.dev/icons?i=java,python,php,javascript,html,css,c,cpp,mysql,postgresql,&perline=7)](https://skillicons.dev)
