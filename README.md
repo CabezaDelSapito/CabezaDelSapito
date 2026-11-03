@@ -1,72 +1,72 @@
-# Olá! 👋 Sou José Olímpio
+# Hi there! 👋 I'm José Olímpio
 
-### Desenvolvedor de Software | Desenvolvimento Web | Desenvolvimento de Jogos
+### Software Developer | Web Development | Game Development
 
-Sou desenvolvedor de software e estou concluindo o Bacharelado em **Ciência da Computação pela Universidade Federal do Amapá (UNIFAP)**.
+I'm a software developer finishing my Bachelor's degree in **Computer Science at the Federal University of Amapá (UNIFAP)**.
 
-Desde junho de 2024, atuo como **Residente Tecnológico no Tribunal de Justiça do Estado do Amapá (TJAP)**, participando do desenvolvimento e da manutenção de sistemas institucionais.
+Since June 2024, I have been working as a **Technology Resident at the Court of Justice of the State of Amapá (TJAP)**, contributing to the development and maintenance of institutional systems.
 
-Tenho experiência em desenvolvimento Web, sistemas de informação, análise de dados e desenvolvimento de jogos, com interesse em arquitetura de software, inteligência artificial e jogos na educação.
+I have experience in web development, information systems, data analysis, and game development, with interests in software architecture, artificial intelligence, and games in education.
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+## 💻 Technologies and Skills
 
-**Linguagens de programação**
+**Programming languages**
 
 ![Languages](https://skillicons.dev/icons?i=java,python,php,javascript,html,css,c,cpp&perline=8)
 
-**Frameworks, bancos de dados e ferramentas**
+**Frameworks, databases, and tools**
 
 ![Tools](https://skillicons.dev/icons?i=laravel,postgres,mysql,git,github,vscode,godot&perline=7)
 
-**Outras tecnologias:** Streamlit, Livewire, Redis e Polars.
+**Other technologies:** Streamlit, Livewire, Redis, and Polars.
 
 ---
 
-## 💼 Experiência profissional
+## 💼 Professional Experience
 
-### Tribunal de Justiça do Estado do Amapá (TJAP)
-**Residente Tecnológico | Junho de 2024 – Atualmente**
+### Court of Justice of the State of Amapá (TJAP)
+**Technology Resident | June 2024 – Present**
 
-Atuação no desenvolvimento, manutenção e evolução de sistemas institucionais, utilizando principalmente PHP, Python e PostgreSQL.
+Working on the development, maintenance, and evolution of institutional systems, mainly using PHP, Python, and PostgreSQL.
 
-**Principais projetos e contribuições:**
+**Key projects and contributions:**
 
-- **DataCor:** Desenvolvimento de funcionalidades para uma plataforma de acompanhamento da produtividade e do andamento processual das unidades judiciárias. Integra dados dos sistemas Tucujuris e PJe, disponibilizando indicadores para análise e apoio à gestão judicial.
-- **Painéis de Business Intelligence (BI):** Desenvolvimento de painéis interativos para análise de dados institucionais, utilizando Streamlit(Python), visualizações de indicadores e estratégias de cache para otimização de desempenho.
+- **DataCor:** Developed features for a platform that tracks the productivity and case progress of judicial units. It integrates data from the Tucujuris and PJe case management systems, providing indicators for analysis and support for judicial management.
+- **Business Intelligence (BI) dashboards:** Built interactive dashboards for institutional data analysis using Streamlit (Python), indicator visualizations, and caching strategies for performance optimization.
 
 ---
 
-## 🎮 Desenvolvimento de jogos
+## 🎮 Game Development
 
-Desenvolvimento de jogos educacionais utilizando **Godot Engine 4**, explorando mecânicas de gameplay como ferramentas de apoio ao ensino de conceitos da computação.
+Development of educational games using **Godot Engine 4**, exploring gameplay mechanics as tools to support the teaching of computer science concepts.
 
 ### Code Trials
-[![Code Trials](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat&logo=github)](https://github.com/jcfurtado86/code-trials)
+[![Code Trials](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jcfurtado86/code-trials)
 
-Jogo educacional de plataforma 2D voltado ao ensino de lógica de programação. Trabalha conceitos de sequência, estruturas condicionais e repetição por meio de programação com blocos e comandos textuais.
+A 2D platformer educational game focused on teaching programming logic. It covers sequencing, conditional structures, and loops through block-based programming and text commands.
 
-**Publicação acadêmica:**
+**Academic publication:**
 
 *Code Trials: An Approach to Teaching Programming Logic Through Platform Game Mechanics.*
 
-- [Artigo – SBC OpenLib](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/45944)
+- [Paper – SBC OpenLib](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/45944)
 
 ### RegexMon
-[![RegexMon](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat&logo=github)](https://github.com/jcfurtado86/regexmon)
+[![RegexMon](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jcfurtado86/regexmon)
 
-RPG educacional em mundo aberto que utiliza mecânicas de batalhas por turnos para ensinar expressões regulares (*Regular Expressions*), explorando competências de reconhecimento e construção de padrões.
+An open-world educational RPG that uses turn-based battle mechanics to teach regular expressions, developing pattern recognition and pattern construction skills.
 
-**Publicação acadêmica:**
+**Academic publication:**
 
 *RegexMon: An RPG for Teaching Regular Expressions in Computing Education.*
 
-- [Artigo – SBC OpenLib](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/45943)
+- [Paper – SBC OpenLib](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/45943)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
